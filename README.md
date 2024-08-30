@@ -1,20 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Francesco 👋 
 
-<!-- ![about_me.py](https://user-images.githubusercontent.com/14168559/96319520-ba632b00-0fc4-11eb-9bcc-64ecdb5583f3.png)-->
+<img width="1143" alt="Screenshot 2024-08-31 at 02 17 47" src="https://github.com/user-attachments/assets/85b06636-675f-4deb-9dfb-6e8167c802cb">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andreolf)
+## 🎙️ Recent Dev-Focused Talks
 
-<!--
-**andreolf/andreolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[All the recent talks](https://www.francesco-andreoli.com/)
 
-Here are some ideas to get you started:
+## 🌱 Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo)
+- [ConsenSys/ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [ethereum/EIPs](https://github.com/ethereum/EIPs)
+
+Always open to discussing blockchain development, Ethereum ecosystem, and developer community building. Let's connect and build the decentralized future together!
+
+![Profile Views](https://komarev.com/ghpvc/?username=andreolf)
