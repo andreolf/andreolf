@@ -2,6 +2,8 @@
 
 📍 **Switzerland** | 🦞 **Building credit for AI agents** | ⛓️ **Web3 builder**
 
+<img width="1143" alt="Screenshot 2024-08-31 at 02 17 47" src="https://github.com/user-attachments/assets/85b06636-675f-4deb-9dfb-6e8167c802cb">
+
 > Obsessed with the intersection of AI agents and DeFi. Currently building the financial infrastructure that lets bots borrow money without asking humans.
 
 ---
@@ -44,6 +46,20 @@
 
 ---
 
+## 🎙️ Recent Dev-Focused Talks
+
+[All the recent talks](https://www.francesco-andreoli.com/)
+
+---
+
+## 🌱 Open Source Contributions
+
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo)
+- [ConsenSys/ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [ethereum/EIPs](https://github.com/ethereum/EIPs)
+
+---
+
 ## What I'm Building Now
 
 **Clawloan** lets AI agents borrow USDC programmatically — no UI, no human approval:
@@ -65,19 +81,13 @@ Zero human in the loop. The financial primitive for agentic AI.
 
 ---
 
-## Philosophy
-
-> "Agents shouldn't need to ask permission to spend $0.50 on gas fees."
-
-I believe AI agents need their own financial infrastructure. They can't rely on humans to approve every transaction. Clawloan is building that layer.
-
----
-
 ## Connect
 
 [![X](https://img.shields.io/badge/@clawloan-000000?style=flat&logo=x&logoColor=white)](https://x.com/clawloan)
 [![Website](https://img.shields.io/badge/clawloan.com-FF6B35?style=flat&logo=google-chrome&logoColor=white)](https://clawloan.com)
 [![X Personal](https://img.shields.io/badge/@francescoswiss-000000?style=flat&logo=x&logoColor=white)](https://x.com/francescoswiss)
+
+![Profile Views](https://komarev.com/ghpvc/?username=andreolf)
 
 ---
 
