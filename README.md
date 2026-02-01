@@ -10,7 +10,6 @@
 
 ## Current Gigs
 
-* 🦊 **MetaMask** - Developer tooling & ecosystem
 
 * 🦞 **[Clawloan](https://github.com/andreolf/clawloan)** - The credit layer for AI agents. Programmatic micro-loans for AI agents. No UI, no human approval. [clawloan.com](https://clawloan.com)
 
