@@ -62,7 +62,7 @@
 
 ## 📈 GitHub activity
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreolf&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=3987e5&point=58a6ff)](https://github.com/andreolf)
+[![Contribution graph](https://ghchart.rshah.org/3987e5/andreolf)](https://github.com/andreolf)
 
 ---
 
